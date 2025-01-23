@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Happy Jaiswal
 - 👀 I’m interested in ... Software Development 
 - 🌱 I’m currently learning ... Full Stack Development
-- 💞️ My hobbies ... Video Gaming , Badminton
-- 📫 How to reach me ...
+- 💞️ My hobbies ... Gaming Video , Badminton
+- 📫 Subscribe me on yt ... @KAAL_HACK
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
